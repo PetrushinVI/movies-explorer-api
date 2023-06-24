@@ -1,6 +1,8 @@
 const allowedCors = [
-  'http://',
-  'https://',
+  'http://diplom-petrushin.nomoreparties.sbs',
+  'https://diplom-petrushin.nomoreparties.sbs',
+  'http://api.diplom-petrushin.nomoreparties.sbs',
+  'https://api.diplom-petrushin.nomoreparties.sbs',
   'http://localhost:3000',
   'https://localhost:3000',
 ];
